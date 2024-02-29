@@ -6,5 +6,3 @@ class Command:
     @abstractmethod
     def execute(self):
         pass
-
-
